@@ -1,0 +1,20 @@
+{
+  "name": "@pipeworx/mcp-data-sonoma",
+  "version": "0.1.0",
+  "description": "Sonoma County Open Data (data.sonomacounty.ca.gov) Socrata MCP.",
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "keywords": ["mcp", "mcp-server", "model-context-protocol", "pipeworx", "data-sonoma"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pipeworx-io/mcp-data-sonoma"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0"
+  }
+}
