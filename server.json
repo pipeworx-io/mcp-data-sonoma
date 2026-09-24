@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/data-sonoma",
   "title": "Data Sonoma",
   "description": "Sonoma County Open Data (data.sonomacounty.ca.gov) Socrata MCP.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/data-sonoma",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-data-sonoma",
