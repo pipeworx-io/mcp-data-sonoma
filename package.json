@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-data-sonoma",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Sonoma County Open Data (data.sonomacounty.ca.gov) Socrata MCP.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-f599669937db1298d19813ca260183e5f02e47cd36e7ba17dd5ceb27117cb915",
-    "sourceCommit": "839ab210d969ef7f822cd747ea516f6bb49e9231"
+    "sourceHash": "v1-9fc2643f39f11832a8bfc7e26fed1cc135521b9566378462dfedddfd769a0b92",
+    "sourceCommit": "56d3c46c09bb3078ffdbdbca992a93f406bcd382"
   }
 }
